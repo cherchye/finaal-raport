@@ -1,13 +1,15 @@
-# Projecttitel
-*Omschrijving van je concept in 1 zin* 
+### KampKode
+Een innovatieve helm die kinderen laat samen buiten spelen door gebruik te maken van gamification, en spellen visueel sterker maakt.
 
-*Projectteam: Naam 1; Naam 2*
+*Projectteam: Robbe de Guytenaer; Kai Cherchye
 
-Datum
+22/05/2024
 
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
+Ons project is een deel van Nature, play & tech waarbij we kinderen moeten overtuigen om buiten te spelen door het ontwerpen van een innovatieve product door techniek te integreren. Het probleem van tegenwoordig is dat de kinderen te veel binnen zitten en dat er duidelijk een daling van precenntage is van de hoeveelheid buiten spelende kinderen. Dit kan fysieke als mentalen problemen veroorzaken voor de kinderen waarbij dat er veel meer positieve effecten zijn van buiten spelen vergeleken binnen spelen. Dit hebben wij onderzocht door gebruikersonderzoek, literatuuronderzocht en knowledge templates zoals WWWWWH model, persona en problem-solution matrix (deze uitgewerkte modellen zijn terug te vinden in het miroboard).
+Voor dit probleem tegen te gaan zijn we begonnen met de markt- en technologieonderzoek zoals benchmarketing enal om te zien welke oplossingen er nu bestaan om voor het probleem op te lossen. Na al deze onderzoeken hebben we ons bezig gehouden met brainstormen om zelf een innovatieve oplossing te bedenken voor dit probleem op te lossen. Hieruit is ons product KampKode ontstaan, een helm dat gebruik maakt van verschillende sensoren en technologiëen om buiten spelen visueel sterker en leuker te maken voor de kinderen. Met deze helm kan je in de natuur deze video games na bootsen en samen met je vrienden je lichaam bewegen. Door de helm op je hoofd te zetten ben je klaar voor leuke spellen te spelen met je vrienden.
 - Wat is het probleem?
 - Hoe heb je dit onderzocht?
 - Wat is jouw oplossing?
