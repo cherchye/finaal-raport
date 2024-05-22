@@ -8,8 +8,15 @@ Een innovatieve helm die kinderen laat samen buiten spelen door gebruik te maken
 ## Samenvatting
 Max 200 woorden. Beschrijf je project in het kort, waarbij je deze vragen zeker beantwoordt:
 
-Ons project is een deel van Nature, play & tech waarbij we kinderen moeten overtuigen om buiten te spelen door het ontwerpen van een innovatieve product door techniek te integreren. Het probleem van tegenwoordig is dat de kinderen te veel binnen zitten en dat er duidelijk een daling van precenntage is van de hoeveelheid buiten spelende kinderen. Dit kan fysieke als mentalen problemen veroorzaken voor de kinderen waarbij dat er veel meer positieve effecten zijn van buiten spelen vergeleken binnen spelen. Dit hebben wij onderzocht door gebruikersonderzoek, literatuuronderzocht en knowledge templates zoals WWWWWH model, persona en problem-solution matrix (deze uitgewerkte modellen zijn terug te vinden in het miroboard).
-Voor dit probleem tegen te gaan zijn we begonnen met de markt- en technologieonderzoek zoals benchmarketing enal om te zien welke oplossingen er nu bestaan om voor het probleem op te lossen. Na al deze onderzoeken hebben we ons bezig gehouden met brainstormen om zelf een innovatieve oplossing te bedenken voor dit probleem op te lossen. Hieruit is ons product KampKode ontstaan, een helm dat gebruik maakt van verschillende sensoren en technologiëen om buiten spelen visueel sterker en leuker te maken voor de kinderen. Met deze helm kan je in de natuur deze video games na bootsen en samen met je vrienden je lichaam bewegen. Door de helm op je hoofd te zetten ben je klaar voor leuke spellen te spelen met je vrienden.
+Ons project richt zich op het bevorderen van buiten spelen bij kinderen door natuur, spel en technologie te combineren. Het probleem dat we aanpakken is de afname van buiten spelende kinderen, wat kan leiden tot zowel fysieke als mentale gezondheidsproblemen. Buiten spelen biedt veel meer positieve effecten in vergelijking met binnen spelen. 
+
+Om dit probleem beter te begrijpen, hebben we uitgebreid gebruikersonderzoek, literatuuronderzoek en diverse analysetools zoals het WWWWWH-model, persona's en een probleem-oplossingsmatrix toegepast. De resultaten van deze onderzoeken zijn gedocumenteerd in ons Miro-board.
+
+Om bestaande oplossingen in kaart te brengen, hebben we marktonderzoek en technologieanalyse uitgevoerd, inclusief benchmarking. Op basis van deze inzichten hebben we gebrainstormd en een innovatieve oplossing ontwikkeld: KampKode.
+
+KampKode is een helm die gebruik maakt van verschillende sensoren en technologieën om buiten spelen visueel aantrekkelijker en leuker te maken voor kinderen. Met deze helm kunnen kinderen in de natuur videospelervaringen nabootsen en samen met hun vrienden actief en lichamelijk bezig zijn. Het dragen van de helm bereidt kinderen voor op spannende spellen die buiten gespeeld kunnen worden, waardoor het buiten spelen weer aantrekkelijk en interactief wordt.
+
+
 - Wat is het probleem?
 - Hoe heb je dit onderzocht?
 - Wat is jouw oplossing?
